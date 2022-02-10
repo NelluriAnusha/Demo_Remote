@@ -1,0 +1,36 @@
+<html>
+<head>
+    <title>Github User Finder</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="jquery.js" type="text/javascript"></script>
+    <script src="script.js" type="text/javascript"></script>
+</head>
+<body>
+<header>
+    <h1>Github User Search</h1>
+</header>
+<div id="container">
+    <div class="search">
+        <input id="username" placeholder="enter a github username..." type="text">
+    </div>
+    <div id="profile">
+        <div class="card">
+            <img id="githubimage" class="avatar">
+            <div class="information">
+                <ul class="user-info">
+                    <li>GitHub User Name : <strong id="nameOfTheUser"></strong></li>
+                    <li>User Biodata : <strong id="userBiodata"></strong></li>
+                    <li>GitHub ID: <strong id="IDofUser"></strong></li>
+                    <li>GitHub URL: <strong id ="userLink"></strong></li>
+                    <li>Followers : <strong id="userFollowers"></strong></li>
+                    <li>Following : <strong id="userFollowing"></strong></li>
+                    <li>Public Repositories : <strong id="userPublicRepos"></strong></li>
+                    <li>Location : <strong id="userLocation"></strong></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
