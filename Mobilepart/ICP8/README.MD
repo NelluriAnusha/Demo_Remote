@@ -5,4 +5,4 @@ anhx2@umsystem.edu
 Email address: avgh3@umsystem.edu
 
 GitHub Link: 
-https://github.com/AchyuthValeti/Demo_Remote/tree/main/Webpart/ICP8
+https://github.com/NelluriAnusha/Demo_Remote/tree/main/Mobilepart/ICP8
